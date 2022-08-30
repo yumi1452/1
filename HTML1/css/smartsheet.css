@@ -1,0 +1,45 @@
+@media screen and (max-width: 479px){
+    .header{
+        max-width: 200px;
+        width: 100%;
+        height: 200px;
+        position: relative;
+    }
+    .contens-box{
+        width: 60px;
+        height: 160px;
+        flex-direction: column;
+        position: absolute;
+        top: 50%;left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .main{
+        display: block;
+    }
+    .left{
+        width: 200px;
+        height: 100px;
+    }
+    .right{
+        max-width: 200px;
+        width: 100%;
+        height: 210px;
+    }
+    .zyou{
+        position: relative;
+        top: 10px;left: 30px;
+    }
+    .tyuu{
+        position: relative;
+        top: 10px;left: 20px;
+    }
+    .ge{
+        position: relative;
+        top: 10px;left: 30px;
+    }
+    .footer{
+        max-width: 200px;
+        width: 100%;
+        height: 100px;
+    }
+}

@@ -1,0 +1,84 @@
+.header{
+    width: 400px;
+    height: 100px;
+    background-color: #141f40;
+}
+.contens-box{
+    width: 160px;
+    height: 60px;
+    background-color: white;
+    display: flex;
+    position: relative;
+    top: 20px; left: 210px;
+    justify-content: center;
+    align-items: center;
+
+}
+.iti{
+    width: 40px;
+    height: 40px;
+    background-color: #a90046;
+}
+.ni{
+    width: 40px;
+    height: 40px;
+    background-color: #a90046;
+    margin: 10px;
+}
+.sann{
+    width: 40px;
+    height: 40px;
+    background-color: #a90046;
+}
+.main{
+    display: flex;
+}
+.left{
+    width: 150px;
+    height: 250px;
+    background-color: #80bfa8;
+}
+.right{
+    width: 250px;
+    height: 250px;
+    background-color: #8C2727;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.zyou{
+    width: 150px;
+    height: 50px;
+    background-color: #ff863f;
+    box-sizing: border-box;
+    border: solid;
+    border-color: white;
+    position: relative;
+    left: 40px;
+}
+.tyuu{
+    width: 150px;
+    height: 50px;
+    background-color: #ff863f;
+    box-sizing: border-box;
+    border: solid;
+    border-color: white;
+    position: relative;
+    left: 30px;
+    margin: 10px;
+}
+.ge{
+    width: 150px;
+    height: 50px;
+    background-color: #ff863f;
+    box-sizing: border-box;
+    border: solid;
+    border-color: white;
+    position: relative;
+    left: 40px;
+}
+.footer{
+    width: 400px;
+    height: 100px;
+    background-color: #d98d30;
+}
